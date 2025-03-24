@@ -1,0 +1,31 @@
+Product
+   id
+   amount   
+
+   Drink 
+      name
+
+   Dish
+      name
+      category
+         first
+         second
+         side
+         sweet
+    
+Client
+   id
+   name
+   surname
+   email
+   list order
+
+Order 
+   id
+   Client
+   orderDate
+   list product
+
+Order
+   osservare ordini effettuati
+   osservare ordini evasi
